@@ -1,4 +1,4 @@
-# 🚀 Repeater2
+# 🚀 Repeater2 By Faizan Kurawle
 
 **Repeater2** is a Burp Suite extension that unifies **NoAuth**, **JWT Attacker**, and **AuthzTester** into a single workflow for efficient authorization testing and JWT security assessment.
 
